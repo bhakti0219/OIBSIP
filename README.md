@@ -87,7 +87,8 @@ Command : sudo apt update
 
 <img width="864" height="234" alt="image" src="https://github.com/user-attachments/assets/1c854b03-f0e0-4efc-b24a-b8744c3cc64d" />
 
-<img width="929" height="503" alt="image" src="https://github.com/user-attachments/assets/09f1f777-5efc-4182-aee8-efc72c494d3d" />
+<img width="964" height="500" alt="image" src="https://github.com/user-attachments/assets/2ec31e74-4a75-42ac-9549-2aa254d6530d" />
+
 
 ### Step 2 - Allow SSH
 
@@ -121,7 +122,8 @@ Command : sudo ufw demy ftp
 
 Command : sudo ufw enable
 
-<img width="478" height="150" alt="image" src="https://github.com/user-attachments/assets/121340d0-6298-45e8-9510-0fd8475291cd" />
+<img width="547" height="67" alt="image" src="https://github.com/user-attachments/assets/64214b91-0fb3-4135-bae9-675b6b2cf92a" />
+
 
 ### Step 7 - Verify
 
