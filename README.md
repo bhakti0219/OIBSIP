@@ -93,25 +93,29 @@ Command : sudo apt update
 
 Command : sudo ufw allow ssh
 
-<img width="499" height="163" alt="image" src="https://github.com/user-attachments/assets/06afdc89-f53b-46f7-9ae0-da8e7b698586" />
+<img width="503" height="84" alt="image" src="https://github.com/user-attachments/assets/b79be318-7b7d-4033-8646-40653278e10e" />
+
 
 ### Step 3 - Deny HTTP
 
 Command : sudo ufw deny http
 
-<img width="639" height="174" alt="image" src="https://github.com/user-attachments/assets/84151b75-9685-4714-b448-471d06f2fce4" />
+<img width="483" height="87" alt="image" src="https://github.com/user-attachments/assets/7f8fdc81-c72e-4016-91b7-a27062447946" />
+
 
 ### Step 4 - Allow HTTPS
 
 Command : sudo ufw allow https
 
-<img width="554" height="83" alt="image" src="https://github.com/user-attachments/assets/751f9f49-d23b-4d41-acec-763152bc7fe4" />
+<img width="412" height="84" alt="image" src="https://github.com/user-attachments/assets/d92cda79-3090-4c12-a1bb-4b7b33c1fd00" />
+
 
 ### Step 5 - Deny FTP
 
 Command : sudo ufw demy ftp
 
-<img width="589" height="134" alt="image" src="https://github.com/user-attachments/assets/5ae7a3d2-3f57-4d1b-a6d1-65adaef8558d" />
+<img width="445" height="82" alt="image" src="https://github.com/user-attachments/assets/98a6f3b9-84dc-452c-9b6d-5b8209add8fe" />
+
 
 ### Step 6 - Enable
 
