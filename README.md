@@ -170,6 +170,7 @@ Command : sudo ufw status numbered
 <img width="540" height="252" alt="image" src="https://github.com/user-attachments/assets/779745d0-6f78-4e30-b2d5-9569ce1b6cff" />
 
 
+
 ## Task 3 - SQL Injection on DVWA (Low Security)
 
 
@@ -230,6 +231,33 @@ sudo cp config.inc.php.dist config.inc.php
 
 ## Task 4 - Network Security Threats
 
+Created :
+network_security_threats_report.md
 
 
+<img width="702" height="396" alt="image" src="https://github.com/user-attachments/assets/07ea5b18-a4b4-48fe-8e52-dc62f99f744a" />
 
+
+<img width="1359" height="484" alt="image" src="https://github.com/user-attachments/assets/d7b61e2e-ffd3-4f6e-b1bc-c63663688df9" />
+
+<img width="1355" height="495" alt="image" src="https://github.com/user-attachments/assets/af9decbf-b654-4653-ae8d-54fce74bdfe2" />
+
+<img width="1348" height="507" alt="image" src="https://github.com/user-attachments/assets/3e212e96-f653-4dff-a747-f2758b05bd54" />
+
+<img width="1363" height="516" alt="image" src="https://github.com/user-attachments/assets/aa280873-f839-4b68-909a-ffbfbeb80e92" />
+
+<img width="1345" height="504" alt="image" src="https://github.com/user-attachments/assets/c13845c8-be17-4f63-98ca-0ac33ec10e66" />
+
+<img width="1349" height="503" alt="image" src="https://github.com/user-attachments/assets/bfb6ddaa-bb5f-4408-a289-50036a847d21" />
+
+<img width="1353" height="450" alt="image" src="https://github.com/user-attachments/assets/814db2db-882f-4d46-b6c9-800d05276036" />
+
+<img width="1280" height="517" alt="image" src="https://github.com/user-attachments/assets/bb558b3e-ab02-4f75-8160-5ac9217ba1a1" />
+
+<img width="1356" height="479" alt="image" src="https://github.com/user-attachments/assets/0b21f41f-11ce-45d2-ad57-da3b669084f3" />
+
+<img width="1347" height="510" alt="image" src="https://github.com/user-attachments/assets/cf225855-ceb6-4bba-a7ac-dfad60d667f9" />
+
+<img width="1353" height="516" alt="image" src="https://github.com/user-attachments/assets/2fad9c9e-21a9-46e3-ba0e-d3e8904f783f" />
+
+<img width="1359" height="514" alt="image" src="https://github.com/user-attachments/assets/0a33d4bf-0c9e-471a-9639-aca9a397f07f" />
