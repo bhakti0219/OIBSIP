@@ -29,6 +29,8 @@ Command: sudo nmap -O <target_ip>
 
 
 
+
+
 | Port         | Service / Version                             | What the service does                                                              | Security risk                                                                                                                             |
 | ------------ | --------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **21/tcp**   | FTP – vsftpd 2.3.4                            | Transfers files between computers.                                                 | 🔴 **High** – FTP is unencrypted, so credentials/data can be exposed. The detected version is also very old.                              |
@@ -167,6 +169,66 @@ Command : sudo ufw status numbered
 
 <img width="540" height="252" alt="image" src="https://github.com/user-attachments/assets/779745d0-6f78-4e30-b2d5-9569ce1b6cff" />
 
+
+## Task 3 - SQL Injection on DVWA (Low Security)
+
+
+### Step 1 - Install required packages
+
+Command : sudo apt update
+sudo apt install apache 2
+mariadb-server php php-mysqli git -y
+
+
+<img width="1012" height="477" alt="image" src="https://github.com/user-attachments/assets/2ec55957-f645-436d-89e3-13dfed77ac1f" />
+
+<img width="984" height="503" alt="image" src="https://github.com/user-attachments/assets/aaad0424-e9ec-43d3-bacf-5bdfd83b2c20" />
+
+<img width="738" height="511" alt="image" src="https://github.com/user-attachments/assets/cc1a5b6c-28fc-48fa-a44e-610135b9929b" />
+
+Command :
+Start services :  
+
+sudo systemctl start apache2
+sudo systemctl start mariadb
+
+Enable them :
+
+sudo systemctl enable apache2
+sudo systemctl enable mariadb
+
+<img width="995" height="224" alt="image" src="https://github.com/user-attachments/assets/ef4acda3-d47d-4569-8439-024332168b96" />
+
+
+### Step 2 - Download DVWA
+
+cd /var/www/html
+sudo git clone https://github.com/digininja/DVWA.git dvwa
+
+<img width="640" height="223" alt="image" src="https://github.com/user-attachments/assets/2d34c7e6-7faf-43fb-a581-c94ecb6467b7" />
+
+Set permissions:
+
+sudo chown -R www-data:www-data /var/www/html/dvwa
+
+<img width="466" height="193" alt="image" src="https://github.com/user-attachments/assets/3a6c5677-6616-4c4a-a014-2d0b8c84fb7e" />
+
+### Step 3 - Configure DVWA
+
+cd /var/www/html/dvwa/config
+sudo cp config.inc.php.dist config.inc.php
+
+<img width="402" height="192" alt="image" src="https://github.com/user-attachments/assets/8af09810-7f36-47e2-9de2-1ccd9ae244a7" />
+
+<img width="1308" height="519" alt="db" src="https://github.com/user-attachments/assets/06355e0e-c660-4b02-813c-e1e1cce43dd4" />
+
+### Step 5 - Set security to Low
+
+
+
+
+
+## Task 4 - Network Security Threats
 
 
 
