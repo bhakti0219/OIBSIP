@@ -229,13 +229,15 @@ sudo cp config.inc.php.dist config.inc.php
 
 
 
-## Task 4 - Network Security Threats
+## Task 4 - Research Report: Common Network Security Threats
 
 Created :
 network_security_threats_report.md
 
 
-<img width="702" height="396" alt="image" src="https://github.com/user-attachments/assets/07ea5b18-a4b4-48fe-8e52-dc62f99f744a" />
+<img width="702" height="321" alt="Screenshot 2026-09-08 192453" src="https://github.com/user-attachments/assets/c25d5621-57ac-482c-8e7f-f19827c0e6d4" />
+
+Report :
 
 
 <img width="1359" height="484" alt="image" src="https://github.com/user-attachments/assets/d7b61e2e-ffd3-4f6e-b1bc-c63663688df9" />
@@ -261,3 +263,41 @@ network_security_threats_report.md
 <img width="1353" height="516" alt="image" src="https://github.com/user-attachments/assets/2fad9c9e-21a9-46e3-ba0e-d3e8904f783f" />
 
 <img width="1359" height="514" alt="image" src="https://github.com/user-attachments/assets/0a33d4bf-0c9e-471a-9639-aca9a397f07f" />
+
+
+
+## Task 5 - Research Report: Social Engineering Attacks
+
+Creatd: social_engineering_report.md
+
+<img width="655" height="268" alt="image" src="https://github.com/user-attachments/assets/9660c689-31d3-445d-9a26-d25f9c2cd2f3" />
+
+
+Report :
+
+
+
+<img width="1360" height="509" alt="image" src="https://github.com/user-attachments/assets/fdc987a2-80c6-46f9-9d2e-39b54d3dfa47" />
+
+<img width="1355" height="469" alt="image" src="https://github.com/user-attachments/assets/5b94decb-ec84-4442-91af-f07841913221" />
+
+<img width="1350" height="435" alt="image" src="https://github.com/user-attachments/assets/eecdc7e5-c7e4-444f-8d94-d1f5fac9d225" />
+
+<img width="1212" height="503" alt="image" src="https://github.com/user-attachments/assets/bee7f81f-7f35-46eb-a776-0ed13752ebd3" />
+
+<img width="1109" height="478" alt="image" src="https://github.com/user-attachments/assets/ba80c40e-3f6b-4494-875b-b7439e6747a5" />
+
+<img width="1068" height="502" alt="image" src="https://github.com/user-attachments/assets/b44a560b-b237-472b-b63a-89bb1c48883c" />
+
+<img width="1359" height="491" alt="image" src="https://github.com/user-attachments/assets/8b71f59f-7392-496e-ad68-5de2134524b0" />
+
+<img width="1364" height="502" alt="image" src="https://github.com/user-attachments/assets/cd9a090d-9656-44d9-a28e-e8c811718c4b" />
+
+<img width="1362" height="485" alt="image" src="https://github.com/user-attachments/assets/eb053d00-ba81-4aa3-be55-17b6dc553757" />
+
+<img width="911" height="468" alt="Screenshot 2026-09-09 185203" src="https://github.com/user-attachments/assets/33c46b7d-6496-41f5-b44f-7c56f32dd1d0" />
+
+
+
+<img width="1210" height="478" alt="image" src="https://github.com/user-attachments/assets/4556817c-c4a4-4ac6-a293-62daeb17dd35" />
+
