@@ -297,7 +297,93 @@ Report :
 
 <img width="911" height="468" alt="Screenshot 2026-09-09 185203" src="https://github.com/user-attachments/assets/33c46b7d-6496-41f5-b44f-7c56f32dd1d0" />
 
-
-
 <img width="1210" height="478" alt="image" src="https://github.com/user-attachments/assets/4556817c-c4a4-4ac6-a293-62daeb17dd35" />
+
+<img width="1276" height="473" alt="image" src="https://github.com/user-attachments/assets/9cab3958-d12a-43a1-abe9-e25a7adb9022" />
+
+<img width="1022" height="498" alt="image" src="https://github.com/user-attachments/assets/22820f47-9b1a-4d00-af41-2b7f5eb66311" />
+
+<img width="1354" height="496" alt="image" src="https://github.com/user-attachments/assets/a08bb4f1-3c36-40d2-87ef-ee8166418977" />
+
+<img width="1177" height="448" alt="image" src="https://github.com/user-attachments/assets/d1b13ed9-810c-43d8-8ddd-b658ed6dd7fd" />
+
+<img width="1225" height="515" alt="image" src="https://github.com/user-attachments/assets/9effc1db-2525-48c9-973e-ad2ab3eafce7" />
+
+<img width="870" height="507" alt="image" src="https://github.com/user-attachments/assets/f99648a9-a3f2-4244-ac52-f0edccf33535" />
+
+<img width="1353" height="490" alt="image" src="https://github.com/user-attachments/assets/c3929c91-5fee-463c-9ec3-dbdf95582a2c" />
+
+<img width="1362" height="520" alt="image" src="https://github.com/user-attachments/assets/bc6ab98a-54f9-4c08-9a5e-3e5a48834354" />
+
+<img width="1357" height="368" alt="image" src="https://github.com/user-attachments/assets/dcd75c78-434e-49b2-b245-2f7aa2cf1eb3" />
+
+
+
+## Task 6 - Research Report: The Importance of Patch Management
+
+
+Created : patch_management_report.md
+
+
+<img width="547" height="147" alt="image" src="https://github.com/user-attachments/assets/b5cc239c-e250-42e5-9c09-501aba895370" />
+
+
+Report :
+
+
+<img width="1348" height="509" alt="image" src="https://github.com/user-attachments/assets/785a58cc-5edb-4a9d-801c-1c6dca42eec2" />
+
+
+<img width="1362" height="575" alt="image" src="https://github.com/user-attachments/assets/10d65868-1c73-42f1-9591-9130991d1f52" />
+
+
+<img width="1220" height="585" alt="image" src="https://github.com/user-attachments/assets/bb1090a0-0aa7-4a14-91a2-84a7c77f2d4e" />
+
+
+<img width="1358" height="547" alt="image" src="https://github.com/user-attachments/assets/ccd42fc9-e9c5-4427-bd0c-3bfbbd5e53b2" />
+
+
+<img width="1343" height="547" alt="image" src="https://github.com/user-attachments/assets/d280ed0c-f957-4e95-aed8-f5ece6030ca6" />
+
+
+<img width="1071" height="591" alt="image" src="https://github.com/user-attachments/assets/cd608205-ce72-45b0-a83a-de9ad7028427" />
+
+
+<img width="1064" height="549" alt="image" src="https://github.com/user-attachments/assets/a036e5ed-17a3-4ba3-b1a9-c93522cf99cf" />
+
+
+<img width="1160" height="583" alt="image" src="https://github.com/user-attachments/assets/08c5c56f-843c-4de3-af82-5b54f069aabc" />
+
+
+<img width="820" height="571" alt="image" src="https://github.com/user-attachments/assets/9212d24b-1664-419e-b110-b7044107a7aa" />
+
+
+<img width="1118" height="480" alt="image" src="https://github.com/user-attachments/assets/4fd5597c-21be-4776-9ded-198d9d95ab25" />
+
+
+<img width="1358" height="565" alt="image" src="https://github.com/user-attachments/assets/81a19df2-9f7d-4844-8614-382dd991f474" />
+
+
+<img width="658" height="571" alt="image" src="https://github.com/user-attachments/assets/e396ab5f-2078-48a0-8c21-9edf6a576822" />
+
+
+<img width="804" height="566" alt="image" src="https://github.com/user-attachments/assets/6bcf4013-e37d-4fc9-82b1-64a1afca9c1c" />
+
+
+<img width="589" height="526" alt="image" src="https://github.com/user-attachments/assets/b8982b0c-4329-4376-8d18-f9aa7d3d4d19" />
+
+
+<img width="1093" height="565" alt="image" src="https://github.com/user-attachments/assets/bf6380c8-deb5-428f-9f74-bffbc291d6a1" />
+
+
+<img width="1353" height="514" alt="image" src="https://github.com/user-attachments/assets/a80575f1-6f41-4fe6-87e5-044da8dfc9a5" />
+
+
+<img width="1361" height="562" alt="image" src="https://github.com/user-attachments/assets/ebd94317-15c8-49fd-8cc4-1ee820b34939" />
+
+
+<img width="1365" height="576" alt="image" src="https://github.com/user-attachments/assets/2ec55b2a-9b3d-4c48-8d91-daa8ee543ff3" />
+
+
+<img width="1259" height="392" alt="image" src="https://github.com/user-attachments/assets/641f4a3f-0339-46f0-bd95-5e4fa0385391" />
 
