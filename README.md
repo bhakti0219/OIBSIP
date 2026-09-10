@@ -241,15 +241,31 @@ DVWA → SQL Injection
 
 basic SQL-injection demonstration
 
+### DVWA Login
+
+
+<img width="774" height="447" alt="Screenshot 2026-09-10 184857" src="https://github.com/user-attachments/assets/c5cfe75c-d69d-45f2-8c21-88f12b96247d" />
+
+### DVWA Security Level
+
+
+<img width="939" height="456" alt="Screenshot 2026-09-10 184114" src="https://github.com/user-attachments/assets/1acb1ea6-5e40-481d-b06c-f6862c0e5f4f" />
+
+
+<img width="1043" height="449" alt="Screenshot 2026-09-10 184138" src="https://github.com/user-attachments/assets/bf0747dd-ce21-48ed-b02d-1d2cce242833" />
+
+### First SQL Injection
 
 Payload 1 : ' OR '1'='1
 
 <img width="962" height="438" alt="image" src="https://github.com/user-attachments/assets/310ca08a-69a0-495e-8901-993d5f3080e6" />
 
+### Second SQL Injection
 
 Payload 2 : 1
 
 <img width="997" height="389" alt="Screenshot 2026-09-10 184631" src="https://github.com/user-attachments/assets/3f7d34e1-2dc2-40cb-a54a-d28edc364948" />
+
 
 
 ### Step 7 - Create notes
