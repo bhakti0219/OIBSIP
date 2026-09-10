@@ -257,6 +257,30 @@ Payload 2 : 1
 sql_injection_notes.md:
 
 
+<img width="1238" height="430" alt="image" src="https://github.com/user-attachments/assets/f03eae2f-cf66-4ca5-962f-74a2e67d0ec2" />
+
+
+<img width="957" height="492" alt="image" src="https://github.com/user-attachments/assets/c13bae7d-ba72-49c9-9fca-6ac48b356733" />
+
+
+<img width="1341" height="399" alt="image" src="https://github.com/user-attachments/assets/51c1cb58-b076-4cc6-a868-740e73f559bb" />
+
+
+<img width="1333" height="477" alt="image" src="https://github.com/user-attachments/assets/e0895751-0639-4aab-b8e2-ef17c5f9aba1" />
+
+
+<img width="1315" height="476" alt="image" src="https://github.com/user-attachments/assets/a4a06974-1039-4175-9320-7b97463805a1" />
+
+
+<img width="1069" height="570" alt="image" src="https://github.com/user-attachments/assets/2288e375-b879-4bce-9692-6388d2b1a8ee" />
+
+
+<img width="1300" height="581" alt="image" src="https://github.com/user-attachments/assets/ae6ebf4f-74e6-4551-9238-c14dc1c36a13" />
+
+
+<img width="1345" height="565" alt="image" src="https://github.com/user-attachments/assets/49a1a557-dfd9-4296-88ef-c0b8e0ae2cfd" />
+
+
 
 ## Task 4 - Research Report: Common Network Security Threats
 
