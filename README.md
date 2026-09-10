@@ -223,9 +223,38 @@ sudo cp config.inc.php.dist config.inc.php
 
 <img width="1308" height="519" alt="db" src="https://github.com/user-attachments/assets/06355e0e-c660-4b02-813c-e1e1cce43dd4" />
 
+### Step 4  Open DVWA
+
+<img width="1357" height="621" alt="Screenshot 2026-09-10 183910" src="https://github.com/user-attachments/assets/b6d09837-711b-44af-958c-3c5adaa57109" />
+
+
 ### Step 5 - Set security to Low
 
+<img width="939" height="456" alt="Screenshot 2026-09-10 184114" src="https://github.com/user-attachments/assets/d040b798-75fb-4114-b956-4e3a06d2cc0a" />
 
+<img width="1043" height="449" alt="Screenshot 2026-09-10 184138" src="https://github.com/user-attachments/assets/bb451904-4e4e-4944-83cd-e5e4452cfc7b" />
+
+
+### Step 6 - SQL Injection module
+
+DVWA → SQL Injection
+
+basic SQL-injection demonstration
+
+
+Payload 1 : ' OR '1'='1
+
+<img width="962" height="438" alt="image" src="https://github.com/user-attachments/assets/310ca08a-69a0-495e-8901-993d5f3080e6" />
+
+
+Payload 2 : 1
+
+<img width="997" height="389" alt="Screenshot 2026-09-10 184631" src="https://github.com/user-attachments/assets/3f7d34e1-2dc2-40cb-a54a-d28edc364948" />
+
+
+### Step 7 - Create notes
+
+sql_injection_notes.md:
 
 
 
